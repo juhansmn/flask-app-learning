@@ -3,6 +3,7 @@
 from flask import Flask, render_template, url_for
 app = Flask(__name__) #name of the module. special variable
 
+#dictionary
 posts = [
     {
         'author': 'Juan Suman',
