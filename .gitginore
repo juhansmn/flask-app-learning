@@ -1,2 +1,2 @@
-#Ignora diretório ".vs"
-.vs/
+#Ignora diretório ".vscode"
+.vscode/
